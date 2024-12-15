@@ -77,8 +77,8 @@ nav:
   - About: index.md
   - Projects: 
     - projects/index.md
-    - projects/mum_pen.md
-    - projects/crazyflie.md
+    - projects/mum_pen/mum_pen.md
+    - projects/crazyflie/crazyflie.md
     - projects/athelete.md
     - projects/autodoor.md
     - projects/quadcopter.md
