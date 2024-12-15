@@ -1,0 +1,92 @@
+site_name: Tejaswi Samavedula
+site_url: https://tejaswi
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  icon:
+    logo: fontawesome/solid/w
+  font:
+    text: DM Sans
+    code: Red Hat Mono
+  features:
+    - toc.integrate
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.footer
+    - header.autohide
+  palette:
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: black
+      accent: blue
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: black
+      accent: light blue
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tejaswisamavedula/
+    - icon: fontawesome/brands/github
+      link: https://github.com/tejaswisam
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:tejaswisamavedula@gmail.com
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+plugins:
+  - blog
+  - search
+  - tags:
+      tags_file: tags.md
+nav:
+  - About: index.md
+  - Projects: 
+    - projects/index.md
+    - projects/mum_pen.md
+    - projects/crazyflie.md
+    - projects/athelete.md
+    - projects/autodoor.md
+    - projects/quadcopter.md
+  - Research:
+    - research/index.md
+  - Certifications:
+    - certifications/index.md
+  - Awards:
+    - awards/index.md
+  - Blog:
+    - blog/index.md
