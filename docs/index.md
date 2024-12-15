@@ -1,5 +1,6 @@
-# **Tejaswi Samavedula**
 ![Profile Picture](assets/images/image.png){ align=right width="300" loading=lazy }
+
+# **Tejaswi Samavedula**
 <span style="font-size:20px;"> [:simple-linkedin:](https://www.linkedin.com/in/tejaswisamavedula/){:target="_blank"} 
 [:simple-github:](https://github.com/tejaswisam){:target="_blank"} [:simple-maildotru:](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 </span>
