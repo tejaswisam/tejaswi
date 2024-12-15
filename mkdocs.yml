@@ -84,9 +84,10 @@ nav:
     - projects/index.md
     - projects/mum_pen/mum_pen.md
     - projects/crazyflie/crazyflie.md
+    - projects/quadcopter/quadcopter.md
     - projects/athlete/athlete.md
     - projects/autodoor/autodoor.md
-    - projects/quadcopter/quadcopter.md
+    - projects/dbs/dbs.md
   - Research:
     - research/index.md
   - Certifications:
