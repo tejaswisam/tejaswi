@@ -9,7 +9,7 @@ I am Tejaswi Samavedula, a passionate engineering student currently pursuing my 
 
 My current reserach at ARISE Lab, IIITDM Kancheepuram is foucused on mapping and navigation of indoor environment using nano-drones, leading efficient and cost effective solutions. Looking forward to work and collaborate in field of robotics and mechatronics. See more at [Research](research/index.md) page.
 
-Hands on experience in end-to-end prototype development.
+Worked with various inter-displinary projects and have hands on experience in end-to-end prototype development.
 If you are interested to collaborate, contact me at: [tejaswisamavedula@gmail.com](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 
 [:simple-adobeacrobatreader: Resume](https://drive.google.com/file/d/18lmua5U4lJaFE4kJ-WC0IggoODxIKAZR/view?usp=sharing){:target="_blank" .md-button}

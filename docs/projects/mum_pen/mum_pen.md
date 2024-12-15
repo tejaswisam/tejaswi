@@ -9,7 +9,7 @@ tags:
 ---
 # Multi-Utility Measuring Pen (Patent Pending)
 > :octicons-location-16: Developed at IIITDM Kancheepuram &nbsp;
-> :material-calendar: Jan 2024 - Apr 2024 &nbsp;
+> :material-calendar: Feb 2024 - Apr 2024 &nbsp;
 
 ## Introduction
 I designed and developed Multi-Utility Measuring Pen (MUM-Pen), a device that combines a writing tool and a measuring instrument in one. The MUM-Pen has two sides: writing side and measuring side. The writing side can be used to take notes, markings, sketches, or diagrams. The measuring side uses an encoder to measure the distance between two points and a digital display to display it.
