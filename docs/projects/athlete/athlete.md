@@ -19,3 +19,7 @@ In this project I developed a wearable device that integrates sensors for monito
 In this IoT architecture involving a sweat sensor (moisture sensor), temperature and humidity sensor connected to a NodeMCU ESP8266 microcontroller board that collects and processes sensor data, which is then transmitted to a cloud server (BlynkIOT) for further signal processing and analysis. The processed data can be accessed and visualized through a mobile device or desktop interface, enabling remote monitoring, data visualization and integration with other systems.
 
 ![research](iot.png){ width="500" loading=lazy } ![research](code.png){ width="400" loading=lazy }
+
+## Working Demo
+
+<iframe width="1024" height="576" src="https://drive.google.com/file/d/1zS24KpktAbBee6cCdrB2rR8YrwyNFFJ_/preview"></iframe>

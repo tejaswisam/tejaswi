@@ -32,7 +32,7 @@ For ensuring that drone will fly as programmed to complete competition's autonom
 ## Designing of PCB
 As the drone was custom built, custom PCB for power distribution was required. I designed a 2-layered PCB that takes power from 3S Lithium-polymer battery and distribute it to 4 ESC and other electronic components. Voltage regulator was added for low-powered components.
 
-![pcb](pcb.png){ width="300" loading=lazy }
+![pcb](pcb.png){ width="300" loading=lazy } ![sch](schematic.png){ width="500" loading=lazy }
 
 ## Soldering and Assembly of Electronics
 Soldered ESCs and other components to power distribution board, assembled and integrated with other electronics (motors, flight controller, etc.) and the drone structure. Connected all actuators to RC reciver at configured channels.
@@ -41,3 +41,6 @@ Soldered ESCs and other components to power distribution board, assembled and in
 After procurement of all electronics and fabrication of drone body, it was assembled and ready for flight testing. We tested it under competition senarios, ensuring no deviation from projected flight.
 
 ![drone](drone1.jpg){ width="300" loading=lazy } ![drone](drone2.jpg){ width="300" loading=lazy } ![drone](Dectections.png){ width="300" loading=lazy }
+
+You can check the flying video below:
+<iframe width="1024" height="576" src="https://drive.google.com/file/d/1U7qNFZE00yEtDDLJ64sGQbK2G5_xjbUX/preview"></iframe>
