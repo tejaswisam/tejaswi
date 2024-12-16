@@ -21,3 +21,7 @@ distance sensors that efficiently map indoor spaces. This system consists of a m
 The software framework uses ROS2 middleware with Crazyswarm2 package. The mapper drone’s system handles exploration and trajectory generation, broadcasting viable paths to the follower robots/drones.
 
 ![research](sim1.png){ width="450" loading=lazy }
+
+## Demo
+You can check the flying video below:
+<iframe width="1024" height="576" src="https://drive.google.com/file/d/1vYdGwgfVCqGBTUg8z8MX1uoof7g-_dOV/preview"></iframe>
