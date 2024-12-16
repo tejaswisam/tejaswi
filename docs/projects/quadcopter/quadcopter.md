@@ -10,7 +10,7 @@ tags:
 > :material-calendar: Mar 2023 - Nov 2023 &nbsp;
 
 ## Introduction
-This work was done as a part of Team Astra, for participation in SAE AeroTHON 2023 competition. I designed and fabricated the drone body based on competition requirements. The drone was made of 3D printed parts and supported by carbon fiber plates.
+This work was done as a part of Team Astra, for participation in SAE AeroTHON 2023 competition. I designed and fabricated the drone body based on competition requirements. The drone was made of 3D printed parts and supported by carbon fiber plates. I did basic FEA simlations to check any faliures under different loading conditions.
 
 ![MUM_Pen](drone.png){ width="300" loading=lazy } ![MUM_Pen](drone1.jpg){ width="450" loading=lazy }
 

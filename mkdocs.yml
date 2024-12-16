@@ -82,17 +82,19 @@ nav:
   - About: index.md
   - Projects: 
     - projects/index.md
-    - projects/mum_pen/mum_pen.md
-    - projects/crazyflie/crazyflie.md
-    - projects/quadcopter/quadcopter.md
-    - projects/athlete/athlete.md
-    - projects/autodoor/autodoor.md
-    - projects/dbs/dbs.md
+    - Multi-Utility Measuring Pen (Patent Pending): projects/mum_pen/mum_pen.md
+    - Indoor Mapping and Navigation using Crazyflie Nano-drone: projects/crazyflie/crazyflie.md
+    - Design and Development of Autonomous Drone: projects/autonomous_drone/autonomous_drone.md
+    - Design and Fabrication Payload carrying Quadcopter: projects/quadcopter/quadcopter.md
+    - Sweat based athlete exhaustion detection device: projects/athlete/athlete.md
+    - Automatic Door System for Visually Impaired: projects/autodoor/autodoor.md
+    - Hostel and Mess Complaint Registration System: projects/dbs/dbs.md
+    - Miscellaneous Projects: projects/misc/misc.md
   - Research:
     - research/index.md
   - Certifications:
     - certifications/index.md
   - Awards:
     - awards/index.md
-  - Blog:
-    - blog/index.md
+  # - Blog:
+  #   - blog/index.md

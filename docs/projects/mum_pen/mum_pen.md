@@ -5,6 +5,7 @@ tags:
   - Fusion 360
   - CAD Modeling
   - Electronics
+  - Soldering
   - Sensors
 ---
 # Multi-Utility Measuring Pen (Patent Pending)
