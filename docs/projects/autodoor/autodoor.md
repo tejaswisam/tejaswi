@@ -9,7 +9,7 @@ tags:
 # Automatic Door System for Visually Impaired
 > :octicons-location-16: Developed at IIITDM Kancheepuram &nbsp;
 > :material-calendar: Mar 2023 - Apr 2023 &nbsp;
-> :simple-github: [Github Repository](){:target="_blank"}
+> :simple-github: [Github Repository](https://github.com/tejaswisam/automatic_door_tiva_board){:target="_blank"}
 
 ## Introduction
 The Automatic Door Opening System with Tiva board is a project that involves the design and implementation of a system that can detect the presence of a person in front of a door and automatically open the door for them. The project aims to improve accessibility and convenience for people with disabilities, elderly individuals, and others who may benefit from an automatic door opening system.
