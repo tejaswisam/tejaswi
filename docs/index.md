@@ -8,7 +8,7 @@
 ![Profile Picture](assets/images/image.jpeg){ align=right width="300" loading=lazy class="circular-image"}
 
 # **About Me**
-<span style="font-size:20px;"> [:simple-linkedin:](https://www.linkedin.com/in/tejaswisamavedula/){:target="_blank"} 
+<span style="font-size:20px;"> [:material-linkedin:](https://www.linkedin.com/in/tejaswisamavedula/){:target="_blank"} 
 [:simple-github:](https://github.com/tejaswisam){:target="_blank"} [:simple-maildotru:](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 </span>
 <br>
@@ -31,7 +31,7 @@ I focus on creating solutions that are both functional and user-centered. I'm dr
 
 For job opportunities, or collaborations, feel free to reach out at: [`tejaswisamavedula@gmail.com`](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 
-[:simple-adobeacrobatreader: Resume](https://drive.google.com/file/d/18lmua5U4lJaFE4kJ-WC0IggoODxIKAZR/view?usp=sharing){:target="_blank" .md-button}
+[:material-file-pdf-box: &nbsp; Resume](https://drive.google.com/file/d/18lmua5U4lJaFE4kJ-WC0IggoODxIKAZR/view?usp=sharing){:target="_blank" .md-button}
 
 ## Education
 <div class="grid cards" markdown>
