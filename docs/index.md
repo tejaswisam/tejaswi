@@ -1,40 +1,63 @@
-![Profile Picture](assets/images/image.png){ align=right width="300" loading=lazy }
+<style>
+    .circular-image {
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  </style>
 
-# **Tejaswi Samavedula**
+![Profile Picture](assets/images/image.jpeg){ align=right width="300" loading=lazy class="circular-image"}
+
+# **About Me**
 <span style="font-size:20px;"> [:simple-linkedin:](https://www.linkedin.com/in/tejaswisamavedula/){:target="_blank"} 
 [:simple-github:](https://github.com/tejaswisam){:target="_blank"} [:simple-maildotru:](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 </span>
 <br>
-I am Tejaswi Samavedula, a passionate engineering student currently pursuing my B.Tech in Smart Manufacturing from IIITDM Kancheepuram, focusing on robotics and embedded systems. Also Captain of Team Astra, a student-led team that designs and builds UAVs (drones).
+Hi, I’m Tejaswi Samavedula — a final-year B.Tech student in Smart Manufacturing at IIITDM Kancheepuram with a passion for building intelligent hardware systems that seamlessly blend design, sensors, and embedded systems. 
 
-My current reserach at ARISE Lab, IIITDM Kancheepuram is foucused on mapping and navigation of indoor environment using nano-drones, leading efficient and cost effective solutions. Looking forward to work and collaborate in field of robotics and mechatronics. See more at [Research](research/index.md) page.
+I specialize in end-to-end product prototyping, combining skills in CAD design, embedded development (ESP32, STM32, ROS2), and sensor integration to bring real-world ideas to life.
 
-Worked with various inter-displinary projects and have hands on experience in end-to-end prototype development.
-If you are interested to collaborate, contact me at: [tejaswisamavedula@gmail.com](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
+I focus on creating solutions that are both functional and user-centered. I'm driven by innovation, fueled by curiosity, and always on the lookout for opportunities to design smarter tools for tomorrow’s problems.
+
+<div class="grid cards" markdown>
+
+- [:material-microscope: &nbsp; My Research](research/index.md)
+- [:material-file-cad-box: &nbsp; Projects](projects/index.md)
+- [:material-certificate: &nbsp; Certifications](certifications/index.md)
+- [:fontawesome-solid-award: &nbsp; Awards](awards/index.md)
+
+</div>
+
+## Contact
+
+For job opportunities, or collaborations, feel free to reach out at: [`tejaswisamavedula@gmail.com`](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 
 [:simple-adobeacrobatreader: Resume](https://drive.google.com/file/d/18lmua5U4lJaFE4kJ-WC0IggoODxIKAZR/view?usp=sharing){:target="_blank" .md-button}
 
 ## Education
-!!! note ""
-    ![IIIT](assets/images/Insignia.png#only-light){ align=left width="90" loading=lazy }
-    ![IIIT](assets/images/Insignia_W.png#only-dark){ align=left width="90" loading=lazy }
+<div class="grid cards" markdown>
+
+-   **Bachelor of Technology, Smart Manufacturing**
+
+    ---
+
+    ![IIIT](assets/images/Insignia.png#only-light){ align=left width="120" loading=lazy }
+    ![IIIT](assets/images/Insignia_W.png#only-dark){ align=left width="120" loading=lazy }
     **Indian Institute of Information Technology (IIIT), Design and Manufacturing, Kancheepuram** [:material-web:](https://www.iiitdm.ac.in/){:target="_blank"}
     <br>
-    *Chennai, India*
-    <br>
-    Bachelor of Technology, Smart Manufacturing
+    *Chennai, Tamil Nadu, India*
     <br>
     *December 2021 – May 2025*
     <br>
+    *Relevant coursework*: Robotics and Automation, Analysis and Synthesis of Robot Mechanisms, Linear Algebra, Machine-to-Machine Communication, Sensors and Control, Embedded Systems, Prototyping and Testing, Production Drawing Practice, Operations Research
 
-    - *Relevant coursework*: Robotics and Automation, Analysis and Synthesis of Robot Mechanisms, Pattern Recognition and Machine Learning, Linear Algebra, Machine-to-Machine Communication, Sensors and Control, Embedded Systems
+</div>
 
 ## Skills
 The skills that I learnt and explored in various [Projects](projects/index.md).
 
 <div class="grid cards" markdown>
 
-- Languages/Frameworks:<span style="font-size:25px;">&nbsp; :simple-ros: ROS2 &nbsp; :simple-python: &nbsp; :simple-cplusplus: </span>
+- Languages/Frameworks:<span style="font-size:25px;">&nbsp; :simple-ros: ROS2 &nbsp; :simple-python: &nbsp; :simple-cplusplus: &nbsp; :simple-c:</span>
 - Developer Tools: <span style="font-size:25px;"> &nbsp; :simple-git: &nbsp; :simple-github: &nbsp; :simple-gnubash: &nbsp; :simple-linux: &nbsp; :simple-docker:</span>
 - Softwares: <span style="font-size:17px;"> :simple-dassaultsystemes: SolidWorks &nbsp; :simple-autocad: Fusion 360 &nbsp; :simple-altiumdesigner: Altium </span>
 - Hardware: <span style="font-size:17px;">:simple-arduino: Arduino &nbsp; :simple-nvidia: Jetson &nbsp; :simple-raspberrypi: Rpi &nbsp; :simple-stmicroelectronics: STM32 </span>
@@ -57,6 +80,18 @@ Check [Certifications](certifications/index.md) page for other relevent certific
 </div>
 
 ## Experience
+!!! note ""
+    **Mechatronics Engineer Intern**
+    <br>
+    Techolution India [:material-web:](https://www.techolution.com/){:target="_blank"}
+    <br> 
+    Hyderabad, Telengana, India
+    <br>
+    Jan 2025 – July 2025, Internship
+    <br>
+
+    - Worked on Robotics AI Hand.
+
 !!! note ""
     **Research Intern**
     <br>

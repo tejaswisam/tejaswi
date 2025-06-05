@@ -1,5 +1,5 @@
 site_name: Tejaswi Samavedula
-site_url: https://tejaswi
+site_url: https://tejaswisam.github.io/tejaswi/
 theme:
   name: material
   logo: assets/logo.png
@@ -7,7 +7,7 @@ theme:
   icon:
     logo: fontawesome/solid/w
   font:
-    text: DM Sans
+    text: Roboto
     code: Red Hat Mono
   features:
     - toc.integrate
@@ -19,13 +19,6 @@ theme:
     - navigation.footer
     - header.autohide
   palette:
-    # Light Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: black
-      accent: blue
     # Dark Mode
     - scheme: slate
       toggle:
@@ -33,6 +26,13 @@ theme:
         name: Dark mode
       primary: black
       accent: light blue
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: black
+      accent: blue
 extra:
   social:
     - icon: fontawesome/brands/linkedin
