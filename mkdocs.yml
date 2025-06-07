@@ -97,5 +97,5 @@ nav:
     - certifications/index.md
   - Awards:
     - awards/index.md
-  - Blog:
-    - blog/index.md
+  # - Blog:
+  #   - blog/index.md

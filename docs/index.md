@@ -34,7 +34,6 @@ For job opportunities, or collaborations, feel free to reach out at: [`tejaswisa
 [:simple-googledocs: Resume](https://drive.google.com/file/d/18lmua5U4lJaFE4kJ-WC0IggoODxIKAZR/view?usp=sharing){:target="_blank" .md-button}
 
 ## Education
-## Education
 !!! note ""
     ![IIIT](assets/images/Insignia.png#only-light){ align=left width="110" loading=lazy }
     ![IIIT](assets/images/Insignia_W.png#only-dark){ align=left width="110" loading=lazy }

@@ -18,7 +18,7 @@ Lead a 15-membered team for participated in SAE AeroTHON 2024. Presented the des
 ![aerothon](assets/aerothon.jpeg){ width="400" loading=lazy } ![phase2](assets/aerophase2.jpg){ width="400" loading=lazy } ![p2](assets/phase2.jpg){ width="400" loading=lazy } ![drone](assets/drone2.jpg){ width="270" loading=lazy }
 
 ### SAE AeroTHON 2023
-Part of a 10-membered team, designed and fabricated the drone body. I used Fusion 360 for designing, Ultimaker Cura for slicing the STL model file for 3D printing. Team achived first place in SAE AeroTHON 2023 Challenger Round.
+Part of a 10-membered team, designed and fabricated the drone body. Used Fusion 360 for designing, 3D printing for fabication. Team achived first place in SAE AeroTHON 2023 Challenger Round.
 
 ![aw23aero](assets/aero23aw.jpeg){ width="400" loading=lazy } ![cert](assets/certaero23.png){ width="390" loading=lazy }
 

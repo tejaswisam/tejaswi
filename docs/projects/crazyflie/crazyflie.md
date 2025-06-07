@@ -23,5 +23,5 @@ The software framework uses ROS2 middleware with Crazyswarm2 package. The mapper
 ![research](sim1.png){ width="450" loading=lazy }
 
 ## Demo
-You can check the flying video below:
-<iframe width="1024" height="576" src="https://drive.google.com/file/d/1vYdGwgfVCqGBTUg8z8MX1uoof7g-_dOV/preview"></iframe>
+Check out the demo video below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqCE9QlfSPI?si=scM5P7XoC-Fqrd9S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
