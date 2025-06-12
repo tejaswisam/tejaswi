@@ -82,7 +82,7 @@ nav:
   - About: index.md
   - Projects: 
     - projects/index.md
-    - TRACE Device: projects/trace_device/trace_device.md
+    - TRACE - Tool for Rapid Analysis, Calibration and Evaluation: projects/trace_device/trace_device.md
     - Multi-Utility Measuring Pen (Patent Pending): projects/mum_pen/mum_pen.md
     - Indoor Mapping and Navigation using Crazyflie Nano-drone: projects/crazyflie/crazyflie.md
     - Design and Development of Autonomous Drone: projects/autonomous_drone/autonomous_drone.md

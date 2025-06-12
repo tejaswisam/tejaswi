@@ -13,7 +13,7 @@ tags:
   - CAD Modeling
   - 3D Printing
 ---
-# TRACE Device: Tool for Rapid Analysis, Calibration and Evaluation
+# TRACE - Tool for Rapid Analysis, Calibration and Evaluation
 > :octicons-location-16: Developed at IIITDM Kancheepuram &nbsp;
 > :material-calendar: Feb 2025 - May 2025 &nbsp;
 > :simple-github: [Github Repository](https://github.com/tejaswisam/trace_device){:target="_blank"}
@@ -38,11 +38,9 @@ This page documents the design, development, and assembly process of the **TRACE
 - [System Architecture](#system-architecture)
 - [UI and Interaction Design](#ui-and-interaction-design)
 - [Hardware Design and CAD](#hardware-design-and-cad)
-- [PCB Design and Wiring](#pcb-design-and-wiring)
-- [Assembly Process](#assembly-process)
-- [Testing and Calibration](#testing-and-calibration)
+- [Circuit Design and Wiring](#circuit-design-and-wiring)
+- [Programming and Firmware Development](#programming-and-firmware-development)
 - [Gallery](#gallery)
-- [License](#license)
 
 ## Tech Stack
 
@@ -82,8 +80,8 @@ The user interface is inspired by modern embedded GUIs with the following princi
 
 - Minimalist and clutter-free layout
 - Animated transitions for screen changes
-- Color-coded sensor panels
-- Encoder-based selection, mimicking real-world instrumentation interfaces
+- Haptic and audio feedback on taking measurements
+- Encoder-based navigation
 
 <figure markdown="span">
 
@@ -91,6 +89,8 @@ The user interface is inspired by modern embedded GUIs with the following princi
 <figcaption>UI design on Figma</figcaption>
 
 </figure>
+
+After the UI was designed on Figma, UI components were exported to [Squareline Studio](https://squareline.io/){:target="_blank"} to convert the UI into C files.
 
 ## Hardware Design and CAD
 
@@ -140,7 +140,7 @@ src/
 ```
 
 - **UI Library**: [LVGL v9+](https://lvgl.io/)
-- **Development Environment**: PlatformIO (recommended) or Arduino IDE
+- **Development Environment**: PlatformIO
 - **RTOS Used**: FreeRTOS integration for multi-tasking
 
 [:octicons-arrow-right-24: See More at this Github repo](https://github.com/tejaswisam/trace_device)

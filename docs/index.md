@@ -31,7 +31,7 @@ I focus on creating solutions that are both functional and user-centered. I'm dr
 
 For job opportunities, or collaborations, feel free to reach out at: [`tejaswisamavedula@gmail.com`](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 
-[:simple-googledocs: Resume](https://drive.google.com/file/d/18lmua5U4lJaFE4kJ-WC0IggoODxIKAZR/view?usp=sharing){:target="_blank" .md-button}
+[:simple-googledocs: Resume](resume/Tejaswi_Samavedula_Resume.pdf){:target="_blank" .md-button}
 
 ## Education
 !!! note ""
