@@ -12,11 +12,11 @@
 [:simple-github:](https://github.com/tejaswisam){:target="_blank"} [:simple-maildotru:](mailto:tejaswisamavedula@gmail.com){:target="_blank"}
 </span>
 <br>
-Hi, I’m Tejaswi Samavedula — a final-year B.Tech student in Smart Manufacturing at IIITDM Kancheepuram with a passion for building intelligent hardware systems that seamlessly blend design, sensors, and embedded systems.
+Hi, I'm Tejaswi Samavedula, a B.Tech graduate in Smart Manufacturing from IIITDM Kancheepuram and currently working as a Robotics Graduate Engineer Trainee (GET) at Robotspace.
 
-I specialize in end-to-end product prototyping, combining skills in CAD design, embedded development (ESP32, STM32, ROS2), and sensor integration to bring real-world ideas to life. I’m deeply drawn to hardware design, and I enjoy exploring cross-disciplinary projects — from electronics to mechanical systems — always with a hands-on, detail-oriented approach.
+I specialize in robotics software development, building autonomous systems using ROS 2, PX4, sensor integration, and perception. I enjoy developing end-to-end robotic solutions, from system architecture and simulation to deployment on real-world platforms.
 
-I focus on creating solutions that are both functional and user-centered. I'm driven by innovation, curiosity, and always on the lookout for opportunities to design smarter, better-engineered tools.
+My interests lie in robotics, industrial automation, and Physical AI, with a focus on developing intelligent autonomous systems that solve real-world engineering challenges.
 
 <div class="grid cards" markdown>
 
@@ -76,6 +76,22 @@ Check [Certifications](certifications/index.md) page for other relevent certific
 </div>
 
 ## Experience
+
+!!! note ""
+    **Graduate Engineer Trainee - Robotics and Automation**
+    <br>
+    Robotspace Robotics and Automation [:material-web:](https://robotspace.in/){:target="_blank"}
+    <br> 
+    Hyderabad, Telengana, India
+    <br>
+    Ang 2025 – Present, Full-time
+    <br>
+
+    - Developed a PX4-based outdoor AMR for Hyundai, leading end-to-end development for autonomous lux-data collection.
+    - Integrated industrial PLCs, AMRs, and robotic systems.
+    - Researched autonomous robotic welding using the Yaskawa AR1440 with ROS 2 and MoveIt
+    - Developed an autonomous pallet tracking system using RFID, LiDAR, and vision sensors for cold-storage warehouses.
+
 !!! note ""
     **Mechatronics Engineer Intern**
     <br>
@@ -131,5 +147,3 @@ Check [Certifications](certifications/index.md) page for other relevent certific
     - Contributed to the development of an autonomous navigation stack for a quadcopter drone using ROS2 and PX4 flight stack, including path planning and sensor data processing.
 
     - Worked extensively with Jetson Orin Nano and Raspberry Pi for onboard processing, and interfaced with the PX4 Autopilot flight controller for flight control and telemetry.
-
-    - Integrated FrSky radio telemetry modules for real-time manual override, system monitoring, and flight data feedback.

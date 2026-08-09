@@ -9,7 +9,7 @@ tags:
   - Sensors
   - IOT
 ---
-# Multi-Utility Measuring Pen (Patent Pending)
+# Multi-Utility Measuring Pen (Patent Published)
 > :octicons-location-16: Developed at IIITDM Kancheepuram &nbsp;
 > :material-calendar: Feb 2024 - Apr 2024 &nbsp;
 
