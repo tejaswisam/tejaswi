@@ -106,12 +106,6 @@ The enclosure was designed in **Autodesk Fusion 360**, optimized for hand-held e
 ![Device_Internal](transparent.png){width="600" loading=lazy}
 </figure>
 
-Design exported and printed with:
-
-- Material: PETG
-- Layer height: 0.15 mm
-- Infill: 40%
-
 ## Circuit Design and Wiring
 
 In early prototypes, sensors are connected via perfboard and jumper wires.
@@ -151,10 +145,6 @@ src/
 <figcaption>PlatformIO interface</figcaption>
 
 </figure>
-
-## Gallery
-
-*Add high-quality images, exploded CAD views, PCB layouts, and UI screenshots here.*
 
 ## Contact
 
